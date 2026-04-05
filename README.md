@@ -37,16 +37,6 @@ A communication technique involving full attention, acknowledgment, and appropri
 ---
 
 ### 4. Core Principles
-**Let Them Set the Tone**  
-(Your explanation)
-
-**You Control Escalation**  
-(Your explanation)
-
-**Adapt, Don’t React**  
-(Your explanation)
-
-### 4. Core Principles
 
 **Let Them Set the Tone**  
 The initial behavior of the individual should guide your response. Rushing in with authority or unnecessary pressure can escalate a situation quickly. Taking a moment to observe allows for a more controlled and appropriate approach.
