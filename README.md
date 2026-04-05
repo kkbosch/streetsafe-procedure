@@ -45,3 +45,20 @@ A communication technique involving full attention, acknowledgment, and appropri
 
 **Adapt, Don’t React**  
 (Your explanation)
+
+### 4. Core Principles
+
+**Let Them Set the Tone**  
+The initial behavior of the individual should guide your response. Rushing in with authority or unnecessary pressure can escalate a situation quickly. Taking a moment to observe allows for a more controlled and appropriate approach.
+
+**You Control Escalation**  
+While the individual may influence the situation, you are responsible for how it develops. Maintaining composure, managing distance, and controlling your tone are key factors in preventing escalation.
+
+**Adapt, Don’t React**  
+Every situation is different. Responding based on habit or emotion can lead to poor outcomes. Assess the situation, adjust your approach, and stay flexible in your response.
+
+**Control Over Force**  
+The goal is always to manage the situation safely, not dominate it. Physical intervention should be a last resort. Effective communication and positioning are often more powerful than force.
+
+**Repeat Interactions Matter**  
+In many environments, the same individuals are encountered regularly. How situations are handled today will influence future interactions. Consistency and professionalism build long-term control and reduce repeat issues.
