@@ -53,7 +53,6 @@ The goal is always to manage the situation safely, not dominate it. Physical int
 **Repeat Interactions Matter**  
 In many environments, the same individuals are encountered regularly. How situations are handled today will influence future interactions. Consistency and professionalism build long-term control and reduce repeat issues.
 
-### 5. Procedure
 
 ### 5. Procedure
 
