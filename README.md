@@ -62,3 +62,22 @@ The goal is always to manage the situation safely, not dominate it. Physical int
 
 **Repeat Interactions Matter**  
 In many environments, the same individuals are encountered regularly. How situations are handled today will influence future interactions. Consistency and professionalism build long-term control and reduce repeat issues.
+
+### 5. Procedure
+
+### 5. Procedure
+
+1. Initial Observation  
+Observe the individual and surrounding environment before making contact. Identify behavior, body language, and any indicators of agitation, distress, or potential escalation. Maintain situational awareness, including exits, obstacles, and other people in the area.
+
+2. Approach  
+Approach calmly and deliberately, maintaining a safe and appropriate distance. Use non-threatening body language and avoid sudden movements. Position yourself in a way that allows for both communication and safe disengagement if required.
+
+3. Tone Matching  
+Adjust your communication style based on the individual’s behavior. Match tone appropriately without escalating the situation. Use clear, simple language and avoid confrontational or authoritative phrasing unless necessary.
+
+4. Escalation Decision  
+Continuously assess the situation to determine if escalation is increasing or decreasing. Identify when to maintain engagement, request support, or disengage. Prioritize safety and avoid unnecessary confrontation.
+
+5. Resolution / Disengagement  
+Work toward a safe resolution through de-escalation whenever possible. If the situation stabilizes, disengage in a controlled manner. If risk increases, follow appropriate escalation procedures and seek additional support as required.
