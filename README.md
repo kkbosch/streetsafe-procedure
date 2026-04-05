@@ -32,3 +32,16 @@ The ability to identify recurring behaviors, environmental cues, or situational 
 
 **Active Listening**  
 A communication technique involving full attention, acknowledgment, and appropriate response to a subject in order to reduce tension and improve understanding.
+
+
+---
+
+### 4. Core Principles
+**Let Them Set the Tone**  
+(Your explanation)
+
+**You Control Escalation**  
+(Your explanation)
+
+**Adapt, Don’t React**  
+(Your explanation)
