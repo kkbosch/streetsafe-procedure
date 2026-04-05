@@ -116,3 +116,19 @@ Maintain distance and avoid escalating language. Use active listening and acknow
 An individual who is frequently encountered and has a known pattern of behavior, which may include previous agitation or non-compliance.  
 
 Approach with awareness of prior interactions. Maintain consistency in communication and expectations. Avoid unnecessary escalation, as repeated negative interactions can reinforce behavior patterns. Focus on controlled, predictable responses.
+
+---
+
+### 7. Safety Considerations
+
+Personal safety should always be the primary priority when managing any situation. Maintain appropriate distance, remain aware of surroundings, and avoid positioning that limits movement or exit options.  
+
+Do not engage physically unless necessary and within the scope of training and policy. If a situation escalates beyond control, disengage and seek support immediately.
+
+---
+
+### 8. Documentation Requirements
+
+All incidents involving escalation, refusal to comply, or safety concerns should be documented as soon as possible following the interaction.  
+
+Documentation should include objective observations, actions taken, and the outcome of the situation. Avoid assumptions or subjective language, and ensure all details are accurate and clear.
