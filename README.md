@@ -135,10 +135,13 @@ Documentation should include objective observations, actions taken, and the outc
 
 ## Responsibilities
 
+Employees are responsible for:
+- Applying de-escalation techniques
+- Maintaining situational awareness
+- Maintaining clear and accurate reports of all interactions
 
-Employees are responsible for applying de-escalation techniques and maintaining awareness during all public-facing interactions.
-  Employees must understand and be able to effectively maintain detailed reports of interactions.
-
-Supervisors are responsible for ensuring staff are properly trained in StreetSafe principles and are confident in applying them during real-world situations.
+Supervisors are responsible for:
+- Ensuring staff are trained in StreetSafe principles
+- Supporting staff during incidents
 
 StreetSafe is intended to be reinforced through practical application, not solely through written policy.
