@@ -71,28 +71,6 @@ Continuously assess the situation to determine if escalation is increasing or de
 5. Resolution / Disengagement  
 Work toward a safe resolution through de-escalation whenever possible. If the situation stabilizes, disengage in a controlled manner. If risk increases, follow appropriate escalation procedures and seek additional support as required.
 
----
-
-### 6. Scenario Examples
-
-**Cooperative Individual**  
-An individual is present in the area but compliant when approached. They respond to direction without resistance and do not display signs of agitation.  
-
-Response should remain calm and respectful. Provide clear instructions and allow the individual to comply at their own pace. Avoid unnecessary authority or pressure, as the situation is already stable.
-
----
-
-**Agitated Individual**  
-An individual displays signs of frustration, agitation, or emotional distress. This may include raised voice, pacing, or refusal to follow direction.  
-
-Maintain distance and avoid escalating language. Use active listening and acknowledge concerns without agreeing to inappropriate behavior. Keep communication clear and controlled, and avoid rapid or confrontational responses.
-
----
-
-**Repeat Individual / Known Behavior**  
-An individual who is frequently encountered and has a known pattern of behavior, which may include previous agitation or non-compliance.  
-
-Approach with awareness of prior interactions. Maintain consistency in communication and expectations. Avoid unnecessary escalation, as repeated negative interactions can reinforce behavior patterns. Focus on controlled, predictable responses.
 
 ---
 
@@ -133,6 +111,8 @@ All incidents involving escalation, refusal to comply, or safety concerns should
 
 Documentation should include objective observations, actions taken, and the outcome of the situation. Avoid assumptions or subjective language, and ensure all details are accurate and clear.
 
+---
+
 ## Responsibilities
 
 Employees are responsible for:
@@ -154,6 +134,7 @@ What SHOULD someone do instead of matching energy?
     -	Stay calm and don’t try to resolve everything quickly
   	-	Showing respect by listening avoids a power struggle
     -	It’s not about winning the interaction, it’s about slowing the escalation 
+---
 
 ### Getting Drawn into an Argument
 
