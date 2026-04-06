@@ -145,3 +145,12 @@ Supervisors are responsible for:
 - Supporting staff during incidents
 
 StreetSafe is intended to be reinforced through practical application, not solely through written policy.
+
+#### Guideline
+
+What SHOULD someone do instead of matching energy?
+
+  - -	Allow the person to say what they want to say, even if it’s non-sensible.
+    -	Stay calm and don’t try to resolve everything quickly
+  	-	Showing respect by listening avoids a power struggle
+    -	It’s not about winning the interaction, it’s about slowing the escalation 
