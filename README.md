@@ -132,3 +132,13 @@ Do not engage physically unless necessary and within the scope of training and p
 All incidents involving escalation, refusal to comply, or safety concerns should be documented as soon as possible following the interaction.  
 
 Documentation should include objective observations, actions taken, and the outcome of the situation. Avoid assumptions or subjective language, and ensure all details are accurate and clear.
+
+## Responsibilities
+
+
+Employees are responsible for applying de-escalation techniques and maintaining awareness during all public-facing interactions.
+  Employees must understand and be able to effectively maintain detailed reports of interactions.
+
+Supervisors are responsible for ensuring staff are properly trained in StreetSafe principles and are confident in applying them during real-world situations.
+
+StreetSafe is intended to be reinforced through practical application, not solely through written policy.
