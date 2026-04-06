@@ -154,3 +154,12 @@ What SHOULD someone do instead of matching energy?
     -	Stay calm and don’t try to resolve everything quickly
   	-	Showing respect by listening avoids a power struggle
     -	It’s not about winning the interaction, it’s about slowing the escalation 
+
+### Getting Drawn into an Argument
+
+#### Guideline
+
+- Allow the individual to communicate their perspective, even if it is not accurate or truthful  
+- Remain focused on de-escalation, not correcting the individual  
+- Maintain control by responding deliberately rather than reacting emotionally  
+- Avoid allowing ego to influence the interaction, as this leads to loss of control
