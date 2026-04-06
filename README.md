@@ -150,7 +150,7 @@ StreetSafe is intended to be reinforced through practical application, not solel
 
 What SHOULD someone do instead of matching energy?
 
-  - -	Allow the person to say what they want to say, even if it’s non-sensible.
+    -	Allow the person to say what they want to say, even if it’s non-sensible.
     -	Stay calm and don’t try to resolve everything quickly
   	-	Showing respect by listening avoids a power struggle
     -	It’s not about winning the interaction, it’s about slowing the escalation 
