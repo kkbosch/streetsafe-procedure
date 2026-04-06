@@ -76,32 +76,26 @@ Work toward a safe resolution through de-escalation whenever possible. If the si
 
 ### 6. Scenario Examples
 
-**Cooperative Individual**  
-An individual is present in the area but compliant when approached. They respond to direction without resistance and do not display signs of agitation.  
+  -**Cooperative Individual**  
+     An individual is present in the area but compliant when approached. They respond to direction without resistance and do not display signs of agitation.  
+  -Response should remain calm and respectful. Provide clear instructions and allow the individual to comply at their own pace. Avoid unnecessary authority     or pressure, as the situation is already stable.
 
-Response should remain calm and respectful. Provide clear instructions and allow the individual to comply at their own pace. Avoid unnecessary authority or pressure, as the situation is already stable.
+  -**Agitated Individual**  
+     An individual displays signs of frustration, agitation, or emotional distress. This may include raised voice, pacing, or refusal to follow direction.  
+     Maintain distance and avoid escalating language. Use active listening and acknowledge concerns without agreeing to inappropriate behavior. 
+     Keep communication clear and controlled, and avoid rapid or confrontational responses.
 
----
-
-**Agitated Individual**  
-An individual displays signs of frustration, agitation, or emotional distress. This may include raised voice, pacing, or refusal to follow direction.  
-
-Maintain distance and avoid escalating language. Use active listening and acknowledge concerns without agreeing to inappropriate behavior. Keep communication clear and controlled, and avoid rapid or confrontational responses.
-
----
-
-**Repeat Individual / Known Behavior**  
-An individual who is frequently encountered and has a known pattern of behavior, which may include previous agitation or non-compliance.  
-
-Approach with awareness of prior interactions. Maintain consistency in communication and expectations. Avoid unnecessary escalation, as repeated negative interactions can reinforce behavior patterns. Focus on controlled, predictable responses.
+  -**Repeat Individual / Known Behavior**  
+     An individual who is frequently encountered and has a known pattern of behavior, which may include previous agitation or non-compliance.  
+     Approach with awareness of prior interactions. Maintain consistency in communication and expectations. Avoid unnecessary escalation, as repeated             negative interactions can reinforce behavior patterns. Focus on controlled, predictable responses.
 
 ---
 
 ### 7. Safety Considerations
 
-Personal safety should always be the primary priority when managing any situation. Maintain appropriate distance, remain aware of surroundings, and avoid positioning that limits movement or exit options.  
+  -Personal safety should always be the primary priority when managing any situation. Maintain appropriate distance, remain aware of surroundings, and avoid    positioning that limits movement or exit options.  
 
-Do not engage physically unless necessary and within the scope of training and policy. If a situation escalates beyond control, disengage and seek support immediately.
+  -Do not engage physically unless necessary and within the scope of training and policy. If a situation escalates beyond control, disengage and seek           support immediately.
 
 ---
 
